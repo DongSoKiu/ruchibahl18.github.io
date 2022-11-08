@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "uninitialized.application.id",
+    "package_name": "jp.co.zensho.olivenooka_dev",
     "sha256_cert_fingerprints":
-    ["46:03:68:6A:D3:1A:BB:36:3F:D4:A0:CB:57:BB:43:2F:61:43:F9:68:95:99:8D:A8:1F:32:47:47:C6:D9:69:07"]
+    ["56:A6:F7:3B:A8:F9:5D:FC:2A:C6:E9:4B:58:40:64:94:A4:E3:E9:F0:A1:72:32:A6:98:E0:E3:DF:0E:B5:97:DA"]
   }
 }]
